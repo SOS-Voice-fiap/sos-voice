@@ -1,0 +1,23 @@
+Lorena Steinwascher / RM 561712
+Laura Elvira / RM 562204
+Isabelly Romano / RM 564217
+
+
+Watson
+API Key: wsaTGLfos1jQJf2KORq8vy5NxaXyctuydOZO54gHVEGL
+URL: https://api.au-syd.assistant.watson.cloud.ibm.com/instances/3015f0c6-6f09-418b-acc1-336fad646695
+Assistant ID: b359dd09-dfdb-4238-9c6e-24bfa60c448c
+
+STT
+API Key: OfYwzXFsd5a0oVFwIqiZhrXtGoP8ylJ1JVvUwYAodCii
+URL: https://api.au-syd.speech-to-text.watson.cloud.ibm.com/instances/03b00551-a600-4007-8b3a-cf47c2694bc5
+
+TTS
+API Key: bR4d1UrnkxN3jiL7-ps-zpdeF9TGxdMbMXvFk22sJ91N
+URL: https://api.au-syd.text-to-speech.watson.cloud.ibm.com/instances/d9092d13-c209-46e1-817f-dc53666e986f
+
+Telegram
+Token: 7743823313:AAGjHz7Eu1ENDXnMkNq0QuU7476Sy_2BNzI
+
+
+Link do vídeo: https://youtu.be/WVJOski6p3A?si=UL5EE3qywUtmV5Of
