@@ -2,7 +2,7 @@
 
 <div align="center" style="margin: 20px 0; display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-  <img src="assets/img/logo.jpeg" 
+  <img src="SOS-Voice-Frontend/assets/img/logo.jpeg" 
        alt="Logo SOS Voice" 
        style="height: 120px; border-radius: 8px; margin: 15px 0;">
   
@@ -72,4 +72,3 @@ graph TD
 ```
 <br>
 🏥 **🔊 SOS Voice – Alerta Inteligente e Inclusivo** <br>
-Tecnologia com impacto social | FIAP 2025
