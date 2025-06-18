@@ -48,7 +48,9 @@ O **SOS Voice** é uma solução de alerta emergencial por voz desenvolvida com 
 **🧑‍💻 Dev Team**  
 
 👨‍💻 [Lorena Steinwascher] - Desenvolvedor
+
 📈 [Laura Elvira] - Líder  
+
 🤝 [Isabelly Romano] - Vendedor  
 
 
